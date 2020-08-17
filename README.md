@@ -42,3 +42,7 @@ to import the config run the following:
 ```bash
 $ lando drush cim -y
 ```
+
+### Drupal Login
+
+The Drupal login is **admin/admin**
