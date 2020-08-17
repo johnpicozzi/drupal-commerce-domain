@@ -1,0 +1,8 @@
+name: drupal-commerce-domain
+recipe: drupal8
+config:
+  webroot: web
+proxy:
+  appserver:
+    - ch.drupal-commerce.lndo.site
+    - at.drupal-commerce.lndo.site
