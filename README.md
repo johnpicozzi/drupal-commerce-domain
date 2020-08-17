@@ -5,6 +5,9 @@
 Included in the project root is a Lando configuration file (`.lando.yml`). The
 only prerequisites are that you must have Lando and Docker installed.
 
+Lando - 3.0.9
+Docker - 2.3.0.3
+
 From the root of the project, run:
 
 ```bash
