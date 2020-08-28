@@ -1,0 +1,9 @@
+uuid: 4eafcf78-1c31-48b7-96d8-f5c036a2ff47
+langcode: en
+status: true
+dependencies: {  }
+currencyCode: CHF
+name: 'Swiss Franc'
+numericCode: '756'
+symbol: CHF
+fractionDigits: 2

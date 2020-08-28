@@ -7,7 +7,6 @@
 
 # Ignore paths that may contain user-generated content
 /web/sites/*/files
-!/web/sites/*/files/config_T9w_w7tSVSSgHRWgbzAIOtqcTAXmjfX4X5sKIkL0uU3w4KF-Rd0BUwSygLU1_zjf1b0GsAm3-Q
 /web/sites/*/public
 /web/sites/*/private
 /web/sites/*/files-public

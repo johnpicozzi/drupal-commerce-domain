@@ -1,0 +1,11 @@
+uuid: 1e2c6d36-6e65-4d7d-b01b-444b3c63bc4a
+langcode: en
+status: true
+dependencies: {  }
+id: ch_drupal_commerce_lndo_site
+domain_id: 5995070
+hostname: ch.drupal-commerce.lndo.site
+name: ch.drupal-commerce.lndo.site
+scheme: https
+weight: 1
+is_default: true

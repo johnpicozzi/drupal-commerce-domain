@@ -1,0 +1,14 @@
+uuid: 11a88c6b-7933-475b-8b4e-c8e304bf6701
+langcode: en
+status: true
+dependencies:
+  config:
+    - domain.record.at_drupal_commerce_lndo_site
+  module:
+    - domain_access
+id: domain_access_add_action.at_drupal_commerce_lndo_site
+label: 'Add selected content to the at.drupal-commerce.lndo.site domain'
+type: node
+plugin: domain_access_add_action
+configuration:
+  domain_id: at_drupal_commerce_lndo_site

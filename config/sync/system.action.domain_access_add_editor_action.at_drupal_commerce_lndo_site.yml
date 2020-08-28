@@ -1,0 +1,14 @@
+uuid: cbb15327-63a1-4f75-a6a4-855175378ead
+langcode: en
+status: true
+dependencies:
+  config:
+    - domain.record.at_drupal_commerce_lndo_site
+  module:
+    - domain_access
+id: domain_access_add_editor_action.at_drupal_commerce_lndo_site
+label: 'Add editors to the at.drupal-commerce.lndo.site domain'
+type: user
+plugin: domain_access_add_editor_action
+configuration:
+  domain_id: at_drupal_commerce_lndo_site

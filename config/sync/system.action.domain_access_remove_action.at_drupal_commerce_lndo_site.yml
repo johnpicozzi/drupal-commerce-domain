@@ -1,0 +1,14 @@
+uuid: 98d6d214-b231-4f8d-9a71-ed0ff4aceb54
+langcode: en
+status: true
+dependencies:
+  config:
+    - domain.record.at_drupal_commerce_lndo_site
+  module:
+    - domain_access
+id: domain_access_remove_action.at_drupal_commerce_lndo_site
+label: 'Remove selected content from the at.drupal-commerce.lndo.site domain'
+type: node
+plugin: domain_access_remove_action
+configuration:
+  domain_id: at_drupal_commerce_lndo_site

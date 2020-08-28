@@ -1,0 +1,14 @@
+uuid: 3174692c-3506-4a16-8931-48b2033edf59
+langcode: en
+status: true
+dependencies:
+  config:
+    - domain.record.ch_drupal_commerce_lndo_site
+  module:
+    - domain_access
+id: domain_access_remove_editor_action.ch_drupal_commerce_lndo_site
+label: 'Remove editors from the ch.drupal-commerce.lndo.site domain'
+type: user
+plugin: domain_access_remove_editor_action
+configuration:
+  domain_id: ch_drupal_commerce_lndo_site
